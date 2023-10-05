@@ -965,7 +965,7 @@ It is your task to specify a regression model to estimate the causal effect of *
 
 # Concluding remarks
 
-In your homework you will do a peer review!
+If you want to learn more about good and bad controls, have a look at this paper: Carlos Cinelli, Andrew Forney, and Judea Pearl (2022). A Crash Course in Good and Bad Controls. _Sociological Methods & Research_.
 
 ### Appendix I: Colliders
 
